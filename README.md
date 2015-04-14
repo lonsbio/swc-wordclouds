@@ -1,5 +1,5 @@
 # swc-wordclouds
-Simple worcloud examples in R, Python and shell for Software Carpentry Workshops
+Simple wordcloud examples in R, Python and shell for Software Carpentry Workshops
 
 
 ## Sample Data
